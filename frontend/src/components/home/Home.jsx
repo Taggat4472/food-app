@@ -14,8 +14,8 @@ const Home = () => {
         <Hero />
         <div className={classes.delivery}>
           <div className={classes.titles}>
-            <span className={classes.deliverySubtitle}>Delivery</span>
-            <h2 className={classes.deliveryTitle}>Always on time for you</h2>
+            <span className={classes.deliverySubtitle}>Livraisons</span>
+            <h2 className={classes.deliveryTitle}>Toujours à l'heure </h2>
           </div>
           <div className={classes.deliveryInfos}>
             <div className={classes.deliveryInfo}>
